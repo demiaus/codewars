@@ -1,1 +1,3 @@
-# codewars
+# CODEWARS
+
+My codewars.com submissions
